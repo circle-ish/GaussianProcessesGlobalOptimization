@@ -1,0 +1,1 @@
+The data has been extracted from the Socioeconomic Data and Applications Center and preprocessed for the purpose of this homework. For any other use, please obtain the data directly from the website http://sedac.ciesin.columbia.edu/.
